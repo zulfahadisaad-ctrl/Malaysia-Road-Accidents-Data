@@ -1,0 +1,7 @@
+{
+  "name": "Malaysia Road Safety Dashboard",
+  "description": "A comprehensive dashboard for visualizing and analyzing fatal accident data in Malaysia, including hotspots, vehicle types, and road categories, powered by AI-driven search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
